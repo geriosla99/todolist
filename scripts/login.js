@@ -65,7 +65,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 alert('Registration successful! Please log in.');
                 registerForm.reset();
             } else {
-                alert('Username already exists. Please choose another');
+                alert('Username already exists. Please choose another.');
             }
         }
     });
